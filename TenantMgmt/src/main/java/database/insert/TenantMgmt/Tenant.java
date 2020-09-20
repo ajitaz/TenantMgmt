@@ -288,7 +288,7 @@ public class Tenant {
 				}
 				rent = String.valueOf(Double.valueOf(room)*3000);
 				switch(Integer.valueOf(id)) {
-				case 8: rent = String.valueOf(Double.valueOf(room)*2500);
+				case 8: rent = String.valueOf(Double.valueOf(room)*2000);
 						break;
 				case 9:	rent = String.valueOf(Double.valueOf(room)*2000);
 						break;

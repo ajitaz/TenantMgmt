@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="np.edu.scst.classesandobjects.Laptop"/>
+    <fullyQualifiedTypeName name="exam.Hanoi"/>
+    <fullyQualifiedTypeName name="samepackage.OneClass"/>
+    <fullyQualifiedTypeName name="abstractkeyword.ObjectLess"/>
+    <fullyQualifiedTypeName name="staticInnerClass.StaticNestedClass.NestedONe"/>
+    <fullyQualifiedTypeName name="staticInnerClass.StaticNestedClass.NestedOne"/>
+    <fullyQualifiedTypeName name="memberinnerclass.NestedMemberInnerClass.MemberInnerClass"/>
+    <fullyQualifiedTypeName name="java.lang.Thread"/>
+    <fullyQualifiedTypeName name="threads.MultiThreadingByExtends"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.io.FileInputStream"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.io.FileOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectOutputStream"/>
+    <fullyQualifiedTypeName name="java.io.ObjectInputStream"/>
+    <fullyQualifiedTypeName name="java.io.Serializable"/>
+    <fullyQualifiedTypeName name="lab5.Exe3"/>
+    <fullyQualifiedTypeName name="lab5.Exe3.ThreadA"/>
+    <fullyQualifiedTypeName name="lab5.ThreadA"/>
+    <fullyQualifiedTypeName name="javax.swing.table.DefaultTableModel"/>
+    <fullyQualifiedTypeName name="javax.swing.JScrollPane"/>
+    <fullyQualifiedTypeName name="java.util.Set"/>
+    <fullyQualifiedTypeName name="java.util.TreeSet"/>
+    <fullyQualifiedTypeName name="java.io.FileWriter"/>
+    <fullyQualifiedTypeName name="java.io.FileNotFoundException"/>
+    <fullyQualifiedTypeName name="java.io.BufferedWriter"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+</qualifiedTypeNameHistroy>

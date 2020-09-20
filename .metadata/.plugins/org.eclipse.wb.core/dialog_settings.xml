@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.wb.internal.core.model.util.ExposePropertySupport$ExposePropertyAction$ExposeDialog">
+		<item key="x" value="379"/>
+		<item key="y" value="165"/>
+		<item key="width" value="613"/>
+		<item key="height" value="457"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.editor.palette.dialogs.ComponentAddDialog">
+		<item key="x" value="317"/>
+		<item key="y" value="179"/>
+		<item key="width" value="737"/>
+		<item key="height" value="429"/>
+	</section>
+	<section name="org.eclipse.wb.internal.core.model.property.editor.string.StringPropertyDialog">
+		<item key="x" value="389"/>
+		<item key="y" value="207"/>
+		<item key="width" value="593"/>
+		<item key="height" value="373"/>
+	</section>
+</section>
